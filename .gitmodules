@@ -1,3 +1,12 @@
 [submodule "donation"]
 	path = donation
 	url = https://github.com/HaranandaLoukrakpam/donation
+[submodule "Demo-"]
+	path = Demo-
+	url = https://github.com/HaranandaLoukrakpam/Demo-
+[submodule "try-out"]
+	path = try-out
+	url = https://github.com/HaranandaLoukrakpam/try-out
+[submodule "qwklab"]
+	path = qwklab
+	url = https://github.com/HaranandaLoukrakpam/qwklab
